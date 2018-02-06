@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outFile": "app/app.js",
+    "sourceMap": true,
+    "sourceRoot": "app/",
+    "rootDir": "app/"
+  }
+}
